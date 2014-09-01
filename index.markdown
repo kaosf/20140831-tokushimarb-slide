@@ -289,6 +289,31 @@ lm[]    #=> in the proc
 lambdaとして作ることも出来る
 
 
+## 補足
+
+```ruby
+do
+  code
+end
+```
+
+と
+
+```ruby
+{ code }
+```
+
+に違いは無い
+
+後者の方がワンライナーにしやすい程度
+
+do end をワンライナーにするのは以下の通り
+
+```ruby
+do; code; end
+```
+
+
 ## Procとlambdaの違い
 
 引数の数のチェックの有無
