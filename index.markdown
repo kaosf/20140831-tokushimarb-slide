@@ -14,6 +14,10 @@
 
 今回説明に使うコードは全て [kaosf/20140831-tokushimarb-codes](https://github.com/kaosf/20140831-tokushimarb-codes) に置いておきます
 
+このスライド自体のリポジトリは [kaosf/20140831-tokushimarb-slide](https://github.com/kaosf/20140831-tokushimarb-slide) にあります
+
+間違いを発見したら Issue あるいは PullRequest を下さい
+
 
 ## Rubyの特徴
 
