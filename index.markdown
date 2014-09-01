@@ -240,9 +240,10 @@ Rubyでは厳密に言うと「関数」すら存在しない
 
 ```ruby
 def f(&block)
+#def f # &block は最後の引数で確定しているので yield で呼ぶなら指定不要
   puts 'before'
   block.call
-  #yield # yield でも呼べる
+  #yield # block.call の代わりに yield でも呼べる
   puts 'after'
 end
 
