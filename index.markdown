@@ -12,6 +12,8 @@
 
 内容も簡単なものにします
 
+今回説明に使うコードは全て [kaosf/20140831-tokushimarb-codes](https://github.com/kaosf/20140831-tokushimarb-codes) に置いておきます
+
 
 ## Rubyの特徴
 
