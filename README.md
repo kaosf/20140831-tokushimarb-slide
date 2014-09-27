@@ -1,3 +1,7 @@
+# Tokushima.rb 1 slide
+
+You can see this slide [here](http://kaosf.github.io/20140831-tokushimarb-slide).
+
 # reveal.js forked by kaosf
 
 Version 2.5.0.0
