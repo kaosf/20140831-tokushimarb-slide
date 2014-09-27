@@ -3,7 +3,7 @@
 ### Author
 
 * か (ka)
-* [kaosfield.net](http://kaosfield.net)
+* [kaosfield](http://www.kaosfield.net)
 
 
 ## Ruby入門
